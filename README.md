@@ -1,16 +1,9 @@
-This repository help me foresee how many days are left to accomplish a mission.
-
-Run with
-```
-go run .
-```
-
-Here, I assume a 7 days week.
+This repository help me foresee how many days are left to accomplish a mission in a week with 7 days.
 
 Parameters:
-"work": how many days to work per week.
-"left": how many items are left to be accomplished (e.g. questions in a book).
-"velocity": how many items per day will be done.
+- "work": how many days to work per week.
+- "left": how many items are left to be accomplished (e.g. questions in a book).
+- "velocity": how many items per day will be done.
 
 Example:
 

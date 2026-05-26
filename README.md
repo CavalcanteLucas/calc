@@ -8,7 +8,7 @@ Parameters:
 Example:
 
 ```
-go run .
+go run main.go -left=267 -work=5 -velocity=2
 
 262 5 2
 work 1 1 260

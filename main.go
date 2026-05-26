@@ -33,8 +33,6 @@ func calc_remaining(left int, work int, velocity int) int {
 	return count
 }
 
-
-
 func main() {
 	var total = 299
 	var answered = 37
